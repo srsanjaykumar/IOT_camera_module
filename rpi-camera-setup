@@ -1,0 +1,9 @@
+sudo raspi-config   -> to config camera module  
+turn on camera feature  -> /dev/video0  is new device added 
+
+use raspi-still           ->     take a photos 
+
+raspistill  1.jpg        ->  new photo is taken 
+
+raspistill --help         -> get more Options 
+
